@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, I analyze data from a cancer treatment study involving 249 mice. The study evaluates the effectiveness of Capomulin compared to other treatments for squamous cell carcinoma (SCC), a type of skin cancer.
+In this project, I analyze data from a cancer treatment study involving 249 mice. The study evaluates the effectiveness of Capomulin compared to other treatments for squamous cell carcinoma (SCC), a type of skin cancer. A full analysis of my findings can be found at the top of the jupyter notebook file.
 
 ## Tasks
 
